@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-72848b6503.gaobufc.cn/sitemap.xml
